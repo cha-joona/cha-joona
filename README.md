@@ -14,3 +14,5 @@
 Working with [ajian_nedo](https://github.com/Asianerd) on a whole lot of projects
 
 Check out [Osmium-Workbase](https://github.com/osmium-workbase)!
+
+*Note : I also keep forgetting all my passwords*
