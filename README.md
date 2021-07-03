@@ -1,4 +1,4 @@
-v![Sakura](sakura.png)
+![Sakura](sakura.png)
 
 # ***cha-joona***
 - Female korean developer
