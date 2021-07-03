@@ -1,16 +1,16 @@
-### Hi there 👋
+v![Sakura](sakura.png)
 
-<!--
-**cha-joona/cha-joona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ***cha-joona***
+- Female korean developer
 
-Here are some ideas to get you started:
+- I prefer game frameworks over game engines
+    - *Monogame / XNA*
+    - *Pygame*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages
+    - *Python*
+    - *C#*
+
+Working with [ajian_nedo](https://github.com/Asianerd) on a whole lot of projects
+
+Check out [Osmium-Workbase](https://github.com/osmium-workbase)!
